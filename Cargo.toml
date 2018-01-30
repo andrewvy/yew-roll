@@ -1,0 +1,8 @@
+[package]
+name = "dice"
+version = "0.1.0"
+authors = ["Andrew Vy <andrew@andrewvy.com>"]
+
+[dependencies]
+yew = { git = "https://github.com/DenisKolodin/yew" }
+rand = "0.4.2"
